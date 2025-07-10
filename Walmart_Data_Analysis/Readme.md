@@ -54,3 +54,14 @@ This project provides an end-to-end data preprocessing, feature engineering, and
 - **Credit card** was the most used payment method.
 - **Branch A** had the highest average profit margin.
 
+## How to Run
+
+**Clone the repository**
+- git clone https://github.com/yourusername/walmart-sales-analysis.git
+
+**Install required libraries**
+- pip install pandas matplotlib seaborn mysql-connector-python
+
+**Launch Jupyter Notebook**
+- jupyter notebook
+Open and run walmart_analysis.ipynb
