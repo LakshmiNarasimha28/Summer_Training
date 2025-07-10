@@ -11,7 +11,7 @@ This project provides an end-to-end data preprocessing, feature engineering, and
   - `Walmart_cleaned_Sales_Data.csv` (Cleaned data)
 
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Python** (Jupyter Notebook)
 - **MySQL** (for structured data storage and querying)
