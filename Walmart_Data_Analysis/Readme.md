@@ -64,4 +64,5 @@ This project provides an end-to-end data preprocessing, feature engineering, and
 
 **Launch Jupyter Notebook**
 - jupyter notebook
+
 **Open and run walmart_analysis.ipynb**
