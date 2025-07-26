@@ -1,0 +1,5 @@
+Model_Name,Accuracy,F1_Score,ROC_AUC
+Random Forest,0.9995,0.8383,0.9188
+XGBoost,0.9993,0.7667,0.934
+Logistic Regression,0.9991,0.6875,0.956
+AdaBoost,0.999,0.6932,0.9704
