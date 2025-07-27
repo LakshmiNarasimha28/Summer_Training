@@ -86,7 +86,7 @@ ROC-AUC: 0.9991
 ## Evaluation Metrics Used
 
 - **Accuracy**
-- **Precision / Recall / F1-score**
+- **F1-score**
 - **Confusion Matrix**
 - **ROC Curve and AUC Score**
 
